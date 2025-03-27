@@ -19,7 +19,10 @@
       "type": 3,
       "api": "csp_Doll",
       "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07",
-      "style":{"type":"rect","ratio":1.485}
+      "style":{"type":"rect","ratio":1.485},
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "Eighteen",
@@ -27,14 +30,20 @@
       "type": 3,
       "api": "csp_Eighteen",
       "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07",
-      "style":{"type":"rect","ratio":1.485}
+      "style":{"type":"rect","ratio":1.485},
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "Hanime",
       "name": "H動漫",
       "type": 3,
       "api": "csp_Hanime",
-      "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07"
+      "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "Jable",
@@ -42,7 +51,10 @@
       "type": 3,
       "api": "csp_Jable",
       "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07",
-      "style":{"type":"rect","ratio":1.485}
+      "style":{"type":"rect","ratio":1.485},
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "Miss",
@@ -50,7 +62,10 @@
       "type": 3,
       "api": "csp_Miss",
       "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07",
-      "style":{"type":"rect","ratio":1.485}
+      "style":{"type":"rect","ratio":1.485},
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "XMVideo",
@@ -80,7 +95,11 @@
       "key": "XVideos",
       "name": "🔞XVideos┃珍惜",
       "type": 3,
-      "api": "csp_XVideos"
+      "api": "csp_XVideos",
+      "style":{"type":"rect","ratio":1.485},      
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "MiMei",
