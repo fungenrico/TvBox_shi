@@ -67,7 +67,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"Supjav","name":"Supjav","type":3,"api":"csp_Supjav","jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07","searchable":1,"quickSearch":1,"filterable":1,"style":{"type":"rect","ratio":1.485}},
+    {"key":"Supjav","name":"🔞Supjav","type":3,"api":"csp_Supjav","jar": "https://github.com/c120487/00/blob/main/jar/xc0126.jar?raw=true","searchable":1,"quickSearch":1,"filterable":1,"style":{"type":"rect","ratio":1.485}},
     {
       "key": "XMVideo",
       "name": "🔞熊猫视频┃珍惜",
