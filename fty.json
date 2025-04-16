@@ -1,5 +1,6 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
+  "spider": "./fty.jar;md5;3d161697458ecbcd2651a749db761ba1",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
    "sites": [
 
      {"key": "csp_KungFu404","name": "🔥┃设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"jar": "./libs/jar/Token.jar","ext": "http://127.0.0.1:9978/file/tvfan/token.txt"},
