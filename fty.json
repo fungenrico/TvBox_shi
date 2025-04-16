@@ -7,13 +7,11 @@
     },
     {"key": "热播","name": "📺┃热播┃多线","type": 3,"api": "csp_AppTT","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU="
     },
-    {"key": "csp_douban","name": "🌕┃豆瓣┃热播","type": 3,"api": "csp_DouDou","searchable": 1,"quickSearch": 1,"filterable": 1},
-     
+    {"key": "csp_douban","name": "🌕┃豆瓣┃热播","type": 3,"api": "csp_DouDou","searchable": 1,"quickSearch": 1,"filterable": 1},     
     {"key": "Lib","name": "🌟┃Lib┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": {  "Cloud-drive": "tvfan/Cloud-drive.txt",  "from": "4k|auto"}
     },
     {"key": "zxzj","name": "🍊┃在线┃外剧","type": 3,"api": "csp_Zxzj","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.zxzjhd.com/"
     }
-
   ],
   "parses": [
     {"name": "Json聚合","type": 3,"url": "Demo" },
